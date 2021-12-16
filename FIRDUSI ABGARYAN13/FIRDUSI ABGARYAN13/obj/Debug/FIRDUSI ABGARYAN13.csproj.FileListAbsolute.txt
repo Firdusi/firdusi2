@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\bin\Debug\Database1.mdf
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\bin\Debug\Database1_log.ldf
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\bin\Debug\FIRDUSI ABGARYAN13.exe.config
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\bin\Debug\FIRDUSI ABGARYAN13.exe
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\bin\Debug\FIRDUSI ABGARYAN13.pdb
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI ABGARYAN13.csprojAssemblyReference.cache
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI_ABGARYAN13.Form1.resources
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI_ABGARYAN13.Form2.resources
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI_ABGARYAN13.Properties.Resources.resources
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI ABGARYAN13.csproj.GenerateResource.cache
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI ABGARYAN13.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI ABGARYAN13.exe
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI ABGARYAN13.pdb
+C:\Users\student\source\repos\FIRDUSI ABGARYAN13\FIRDUSI ABGARYAN13\obj\Debug\FIRDUSI_ABGARYAN13.Form3.resources
